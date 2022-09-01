@@ -136,6 +136,8 @@
       visibility: hidden;
       width: 372px;
       height: 375px;
+      margin: auto;
+      position: absolute;
     }
 
     .rate {
