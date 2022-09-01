@@ -134,14 +134,16 @@
 
     .thanks {
       visibility: hidden;
-      width: 372px;
-      height: 375px;
       margin: auto;
       position: absolute;
+      width: 100%;
+      height: 100%;
     }
 
     .rate {
       margin: auto;
       position: absolute;
+      width: 100%;
+      height: 100%;
     }
    
